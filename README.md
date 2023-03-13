@@ -1,1 +1,5 @@
 # 30DaysOfPowershell
+
+PowerShell is a command-line shell and scripting language that is developed by Microsoft. It is designed to automate system administration tasks and provide an efficient way for administrators to manage and configure Windows-based systems. PowerShell can be used to perform a wide range of tasks, from simple tasks like file management and network configuration, to complex tasks like creating and deploying custom scripts and modules.
+
+PowerShell provides a powerful scripting language that allows users to automate tasks by creating and executing scripts. It also provides a command-line interface that enables users to interact with the system in a flexible and powerful way. PowerShell is built on top of the .NET Framework, which allows it to access the full range of Windows APIs and functionality. PowerShell is included with all modern versions of Windows, and it is also available for other operating systems such as macOS and Linux through the open-source PowerShell Core. Overall, PowerShell is a powerful tool for system administrators and developers to automate and manage Windows-based systems.
